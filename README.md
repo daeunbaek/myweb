@@ -11,11 +11,7 @@
             font-display: swap;
         }
 
-        .paragraph1 {
-            font-family: "OngleipParkDahyeon", serif;
-            font-size: 40;
-        
-        }
+        .paragraph1 { font-family: "OngleipParkDahyeon", serif }
 
         @font-face {
             font-family: 'JejuStoneWall';
@@ -59,14 +55,14 @@
         #container {
             width: 100%;
             max-width: 500px;
-            height: 320px;
+            height: 420px;
             background: linear-gradient(45deg, #fdbade 0%, #cc98f5 100%);
             margin: 150px auto 0 auto;
             border-radius: 20px;
         }
 
         h1 {
-            padding-top: 40px;
+            padding-top: 50px;
             color: #8ba0fe;
         }
 
